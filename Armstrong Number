@@ -1,0 +1,21 @@
+import java.util.Scanner;
+{
+public static void main(String []args)
+Scanner sc=new Scanner(System.in);
+System.out.println("enter a number:");
+int number=a.nextInt;
+int a;
+int temp=a;
+int s=0;
+int sum=0;
+while(temp!=0)
+{
+s=s%10;
+sum=sum(s*s*s);
+temp=temp/10
+{
+if(a==sum)
+{
+System.out.print("Armstrong");
+}
+}
